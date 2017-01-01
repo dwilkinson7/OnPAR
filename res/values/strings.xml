@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OnPAR</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="on_par">OnPAR</string>
+    <string name="listbutton">Park n Ride List</string>
+    <string name="mapbuttonstring">Parking Map</string>
+    
+    <color name="red">#ffff0000</color>
+    <color name="white">#ffffffff</color>
+
+</resources>
